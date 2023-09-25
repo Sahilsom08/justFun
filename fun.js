@@ -1,4 +1,4 @@
-
+// clientHeight
 
 function boxAppear(){
         let top = Math.floor(Math.random()* box.clientHeight );
